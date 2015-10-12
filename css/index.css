@@ -121,7 +121,7 @@ body {
 	position: inherit;
 	width: inherit;
 	height: 20%;
-	background: gray;
+	background-color: gray;
 	/*background: #f5f5f5 url(../img/taskList-bg.jpg) no-repeat 0 0;*/
 	color: #FFF;
 }
